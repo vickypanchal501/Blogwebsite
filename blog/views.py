@@ -22,3 +22,5 @@ def BlogUs(request):
 
 def Posts(request):
     return render(request, 'post.html')
+
+# this is my update by pull
